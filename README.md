@@ -7,6 +7,6 @@ et c'est toujours la seule —ou c'est le seul moment;
 car es-tu reine, ô toi, la première ou dernière?
 es-tu roi, toi le seul ou le dernier amant?"*
  
- — **Gérard de Nerval** *(Arthémis)* »
+ &nbsp;&nbsp;&nbsp;&nbsp;— **Gérard de Nerval** *(Arthémis)* »
  
- &nbsp;&nbsp;&nbsp;&nbsp; — **Octavio Paz** *(Piedra del Sol)*
+ — **Octavio Paz** *(Piedra del Sol)*
