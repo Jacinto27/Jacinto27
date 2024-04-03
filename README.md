@@ -1,3 +1,7 @@
+<!---
+Jacinto27/Jacinto27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ---
 
 > *"La treizième revient… c'est encor la première;
@@ -8,7 +12,3 @@ es-tu roi, toi le seul ou le dernier amant?"*
 > — **Gérard de Nerval** * (Arthémis)*
 
 ---
-<!---
-Jacinto27/Jacinto27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
