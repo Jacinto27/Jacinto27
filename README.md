@@ -8,4 +8,5 @@ car es-tu reine, ô toi, la première ou dernière?
 es-tu roi, toi le seul ou le dernier amant?"*
  
  — **Gérard de Nerval** *(Arthémis)* »
-     — **Octavio Paz** *(Piedra del Sol)*
+ 
+   — **Octavio Paz** *(Piedra del Sol)*
